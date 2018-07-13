@@ -2,8 +2,10 @@
 Repo for personal Vim setup and plugins management.
 
 ## Install pathogen first
+```
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+```
 
 ### Usage:
 1. git clone https://github.com/leizhangcnnz/vim-plugin-management.git && cd vim-plugin-management
