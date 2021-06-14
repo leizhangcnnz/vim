@@ -32,5 +32,5 @@ rm -rf bundle/the-plugin-name
 git rm -r bundle/the-plugin-name
 ```
 
-if colorscheme badwolf is not found.
+if colorscheme badwolf is not found, download create a folder called colors and download badwolf.vim
 https://raw.githubusercontent.com/sjl/badwolf/master/colors/badwolf.vim
