@@ -31,3 +31,6 @@ git submodule foreach 'git checkout master && git pull'
 rm -rf bundle/the-plugin-name
 git rm -r bundle/the-plugin-name
 ```
+
+if colorscheme badwolf is not found.
+https://raw.githubusercontent.com/sjl/badwolf/master/colors/badwolf.vim
